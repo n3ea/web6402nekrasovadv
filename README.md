@@ -13,5 +13,5 @@
 > Четвертый: мне....
 > Бармен его перебивает: что вы мне мозг выносите? - вот вам литр на всех!  
 ---
-Ну и самое важное - фотокарточка моей собаки
-<img src="https://github.com/n3ea/web6402nekrasovadv/blob/main/photo_2024-11-04_18-37-54.jpg" alt="Image alt" width="400" height="300"/>
+Ну и самое важное - фотокарточка моей собаки  
+<img src="https://github.com/n3ea/web6402nekrasovadv/blob/main/photo_2024-11-04_18-37-54.jpg" alt="Image alt" width="400" height="600"/>
