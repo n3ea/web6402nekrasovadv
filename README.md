@@ -14,4 +14,4 @@
 > Бармен его перебивает: что вы мне мозг выносите? - вот вам литр на всех!  
 ---
 Ну и самое важное -- фотокарточка моей собаки
-![Image alt](https://github.com/n3ea/web6402nekrasovadv/blob/main/photo_2024-11-04_18-37-54.jpg
+![Image alt](https://github.com/n3ea/web6402nekrasovadv/blob/main/photo_2024-11-04_18-37-54.jpg)
