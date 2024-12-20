@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Клуб экспортеров Самарской области</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="toolbar">
+        <img src="media/logo.png" alt="Логотип компании"> 
+        <ul>
+            <li><a href="main.html">ГЛАВНАЯ</a></li>
+            <li><a href="industry.html">КАТАЛОГ ОТРАСЛЕЙ</a></li>
+            <li><a href="exporters.html">КАТАЛОГ ЭКСПОРТЕРОВ</a></li>
+        </ul>
+    </div>
+
+    <div class="content">
+        <h2>Каталог экспортеров Самарской области</h2>
+        <table id="exportersTable">
+            <thead>
+                <tr>
+                    <th>Название</th>
+                    <th>ОКВЭД</th>
+                    <th>Коды ТН ВЭД</th>
+                    <th class="center">Наименование продукции на экспорт</th>
+                    <th class="center">В какие страны компания экспортирует</th>
+                    <th class="right">ИНН</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+    <div class="content">
+        <h2>Добавить экспортера</h2>
+        <form id="addExporterForm">
+            <label for="name">Название компании:</label>
+            <input type="text" id="name" required><br>
+
+            <label for="okved">ОКВЭД:</label>
+            <input type="text" id="okved" required><br>
+
+            <label for="tnved">Коды ТН ВЭД:</label>
+            <input type="text" id="tnved" required><br>
+
+            <label for="product">Наименование продукции:</label>
+            <input type="text" id="product" required><br>
+
+            <label for="countries">Страны экспорта:</label>
+            <input type="text" id="countries" required><br>
+
+            <label for="inn">ИНН:</label>
+            <input type="text" id="inn" required><br>
+
+            <button type="submit">Добавить</button>
+        </form>
+    </div>
+    <div class="contact">
+        <p>Есть вопросы? Свяжитесь с нами: <a href="mailto:export-import-samara@yandex.ru">export-import-samara@yandex.ru</a></p>
+    </div>
+
+    <script src="scripts/exporters.js"></script>
+</body>
+</html>
